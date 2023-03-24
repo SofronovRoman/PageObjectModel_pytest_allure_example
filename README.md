@@ -16,7 +16,8 @@ $ pip install -r requirements.txt
 ```
 ## Настройка
 Download [Chromedriver](https://chromedriver.chromium.org/downloads) for [Chrome](https://www.google.com/intl/en/chrome/)  
-Добавьте в Config\config.py недостающие для тестирования данные (path_to_chromedriver, username и password Instagram)
+Добавьте в Config\config.py недостающие для тестирования данные (path_to_chromedriver, username и password Instagram)  
+Установите allure ([Инструкция](https://docs.qameta.io/allure-report/#_installing_a_commandline))
 
 ## Использование
 ```ruby
